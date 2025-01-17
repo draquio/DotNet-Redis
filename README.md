@@ -12,8 +12,10 @@ Proyecto backend realizado con la finalidad de usar y practicar la memoria cache
 - Sin cache: 2970 ms
 - Con cache: 10.9 ms
 
-![](https://i.ibb.co/h2k6SVT/NoCache.png)
-![](https://i.ibb.co/C82VxFy/With-Cache.png)
+<div style="display: flex; gap:10px">
+  <img src="https://i.ibb.co/h2k6SVT/NoCache.png" alt="Imagen 1" width="200"/>
+  <img src="https://i.ibb.co/C82VxFy/With-Cache.png" alt="Imagen 2" width="200"/>
+</div>
 
 
 **Listar productos por ID.**
